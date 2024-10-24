@@ -1,0 +1,1327 @@
+[
+ {
+  "meses_cotizados": 180,
+  "%_subida": 0,
+  "%_acumulado": 50
+ },
+ {
+  "meses_cotizados": 181,
+  "%_subida": 0.19,
+  "%_acumulado": 50.19
+ },
+ {
+  "meses_cotizados": 182,
+  "%_subida": 0.19,
+  "%_acumulado": 50.379999999999995
+ },
+ {
+  "meses_cotizados": 183,
+  "%_subida": 0.19,
+  "%_acumulado": 50.56999999999999
+ },
+ {
+  "meses_cotizados": 184,
+  "%_subida": 0.19,
+  "%_acumulado": 50.75999999999999
+ },
+ {
+  "meses_cotizados": 185,
+  "%_subida": 0.19,
+  "%_acumulado": 50.94999999999999
+ },
+ {
+  "meses_cotizados": 186,
+  "%_subida": 0.19,
+  "%_acumulado": 51.139999999999986
+ },
+ {
+  "meses_cotizados": 187,
+  "%_subida": 0.19,
+  "%_acumulado": 51.329999999999984
+ },
+ {
+  "meses_cotizados": 188,
+  "%_subida": 0.19,
+  "%_acumulado": 51.51999999999998
+ },
+ {
+  "meses_cotizados": 189,
+  "%_subida": 0.19,
+  "%_acumulado": 51.70999999999998
+ },
+ {
+  "meses_cotizados": 190,
+  "%_subida": 0.19,
+  "%_acumulado": 51.89999999999998
+ },
+ {
+  "meses_cotizados": 191,
+  "%_subida": 0.19,
+  "%_acumulado": 52.089999999999975
+ },
+ {
+  "meses_cotizados": 192,
+  "%_subida": 0.19,
+  "%_acumulado": 52.27999999999997
+ },
+ {
+  "meses_cotizados": 193,
+  "%_subida": 0.19,
+  "%_acumulado": 52.46999999999997
+ },
+ {
+  "meses_cotizados": 194,
+  "%_subida": 0.19,
+  "%_acumulado": 52.65999999999997
+ },
+ {
+  "meses_cotizados": 195,
+  "%_subida": 0.19,
+  "%_acumulado": 52.849999999999966
+ },
+ {
+  "meses_cotizados": 196,
+  "%_subida": 0.19,
+  "%_acumulado": 53.039999999999964
+ },
+ {
+  "meses_cotizados": 197,
+  "%_subida": 0.19,
+  "%_acumulado": 53.22999999999996
+ },
+ {
+  "meses_cotizados": 198,
+  "%_subida": 0.19,
+  "%_acumulado": 53.41999999999996
+ },
+ {
+  "meses_cotizados": 199,
+  "%_subida": 0.19,
+  "%_acumulado": 53.60999999999996
+ },
+ {
+  "meses_cotizados": 200,
+  "%_subida": 0.19,
+  "%_acumulado": 53.799999999999955
+ },
+ {
+  "meses_cotizados": 201,
+  "%_subida": 0.19,
+  "%_acumulado": 53.98999999999995
+ },
+ {
+  "meses_cotizados": 202,
+  "%_subida": 0.19,
+  "%_acumulado": 54.17999999999995
+ },
+ {
+  "meses_cotizados": 203,
+  "%_subida": 0.19,
+  "%_acumulado": 54.36999999999995
+ },
+ {
+  "meses_cotizados": 204,
+  "%_subida": 0.19,
+  "%_acumulado": 54.559999999999945
+ },
+ {
+  "meses_cotizados": 205,
+  "%_subida": 0.19,
+  "%_acumulado": 54.74999999999994
+ },
+ {
+  "meses_cotizados": 206,
+  "%_subida": 0.19,
+  "%_acumulado": 54.93999999999994
+ },
+ {
+  "meses_cotizados": 207,
+  "%_subida": 0.19,
+  "%_acumulado": 55.12999999999994
+ },
+ {
+  "meses_cotizados": 208,
+  "%_subida": 0.19,
+  "%_acumulado": 55.319999999999936
+ },
+ {
+  "meses_cotizados": 209,
+  "%_subida": 0.19,
+  "%_acumulado": 55.509999999999934
+ },
+ {
+  "meses_cotizados": 210,
+  "%_subida": 0.19,
+  "%_acumulado": 55.69999999999993
+ },
+ {
+  "meses_cotizados": 211,
+  "%_subida": 0.19,
+  "%_acumulado": 55.88999999999993
+ },
+ {
+  "meses_cotizados": 212,
+  "%_subida": 0.19,
+  "%_acumulado": 56.07999999999993
+ },
+ {
+  "meses_cotizados": 213,
+  "%_subida": 0.19,
+  "%_acumulado": 56.269999999999925
+ },
+ {
+  "meses_cotizados": 214,
+  "%_subida": 0.19,
+  "%_acumulado": 56.45999999999992
+ },
+ {
+  "meses_cotizados": 215,
+  "%_subida": 0.19,
+  "%_acumulado": 56.64999999999992
+ },
+ {
+  "meses_cotizados": 216,
+  "%_subida": 0.19,
+  "%_acumulado": 56.83999999999992
+ },
+ {
+  "meses_cotizados": 217,
+  "%_subida": 0.19,
+  "%_acumulado": 57.029999999999916
+ },
+ {
+  "meses_cotizados": 218,
+  "%_subida": 0.19,
+  "%_acumulado": 57.219999999999914
+ },
+ {
+  "meses_cotizados": 219,
+  "%_subida": 0.19,
+  "%_acumulado": 57.40999999999991
+ },
+ {
+  "meses_cotizados": 220,
+  "%_subida": 0.19,
+  "%_acumulado": 57.59999999999991
+ },
+ {
+  "meses_cotizados": 221,
+  "%_subida": 0.19,
+  "%_acumulado": 57.78999999999991
+ },
+ {
+  "meses_cotizados": 222,
+  "%_subida": 0.19,
+  "%_acumulado": 57.979999999999905
+ },
+ {
+  "meses_cotizados": 223,
+  "%_subida": 0.19,
+  "%_acumulado": 58.1699999999999
+ },
+ {
+  "meses_cotizados": 224,
+  "%_subida": 0.19,
+  "%_acumulado": 58.3599999999999
+ },
+ {
+  "meses_cotizados": 225,
+  "%_subida": 0.19,
+  "%_acumulado": 58.5499999999999
+ },
+ {
+  "meses_cotizados": 226,
+  "%_subida": 0.19,
+  "%_acumulado": 58.739999999999895
+ },
+ {
+  "meses_cotizados": 227,
+  "%_subida": 0.19,
+  "%_acumulado": 58.92999999999989
+ },
+ {
+  "meses_cotizados": 228,
+  "%_subida": 0.19,
+  "%_acumulado": 59.11999999999989
+ },
+ {
+  "meses_cotizados": 229,
+  "%_subida": 0.19,
+  "%_acumulado": 59.30999999999989
+ },
+ {
+  "meses_cotizados": 230,
+  "%_subida": 0.19,
+  "%_acumulado": 59.499999999999886
+ },
+ {
+  "meses_cotizados": 231,
+  "%_subida": 0.19,
+  "%_acumulado": 59.689999999999884
+ },
+ {
+  "meses_cotizados": 232,
+  "%_subida": 0.19,
+  "%_acumulado": 59.87999999999988
+ },
+ {
+  "meses_cotizados": 233,
+  "%_subida": 0.19,
+  "%_acumulado": 60.06999999999988
+ },
+ {
+  "meses_cotizados": 234,
+  "%_subida": 0.19,
+  "%_acumulado": 60.25999999999988
+ },
+ {
+  "meses_cotizados": 235,
+  "%_subida": 0.19,
+  "%_acumulado": 60.449999999999875
+ },
+ {
+  "meses_cotizados": 236,
+  "%_subida": 0.19,
+  "%_acumulado": 60.63999999999987
+ },
+ {
+  "meses_cotizados": 237,
+  "%_subida": 0.19,
+  "%_acumulado": 60.82999999999987
+ },
+ {
+  "meses_cotizados": 238,
+  "%_subida": 0.19,
+  "%_acumulado": 61.01999999999987
+ },
+ {
+  "meses_cotizados": 239,
+  "%_subida": 0.19,
+  "%_acumulado": 61.209999999999866
+ },
+ {
+  "meses_cotizados": 240,
+  "%_subida": 0.19,
+  "%_acumulado": 61.399999999999864
+ },
+ {
+  "meses_cotizados": 241,
+  "%_subida": 0.19,
+  "%_acumulado": 61.58999999999986
+ },
+ {
+  "meses_cotizados": 242,
+  "%_subida": 0.19,
+  "%_acumulado": 61.77999999999986
+ },
+ {
+  "meses_cotizados": 243,
+  "%_subida": 0.19,
+  "%_acumulado": 61.96999999999986
+ },
+ {
+  "meses_cotizados": 244,
+  "%_subida": 0.19,
+  "%_acumulado": 62.159999999999854
+ },
+ {
+  "meses_cotizados": 245,
+  "%_subida": 0.19,
+  "%_acumulado": 62.34999999999985
+ },
+ {
+  "meses_cotizados": 246,
+  "%_subida": 0.19,
+  "%_acumulado": 62.53999999999985
+ },
+ {
+  "meses_cotizados": 247,
+  "%_subida": 0.19,
+  "%_acumulado": 62.72999999999985
+ },
+ {
+  "meses_cotizados": 248,
+  "%_subida": 0.19,
+  "%_acumulado": 62.919999999999845
+ },
+ {
+  "meses_cotizados": 249,
+  "%_subida": 0.19,
+  "%_acumulado": 63.10999999999984
+ },
+ {
+  "meses_cotizados": 250,
+  "%_subida": 0.19,
+  "%_acumulado": 63.29999999999984
+ },
+ {
+  "meses_cotizados": 251,
+  "%_subida": 0.19,
+  "%_acumulado": 63.48999999999984
+ },
+ {
+  "meses_cotizados": 252,
+  "%_subida": 0.19,
+  "%_acumulado": 63.679999999999836
+ },
+ {
+  "meses_cotizados": 253,
+  "%_subida": 0.19,
+  "%_acumulado": 63.869999999999834
+ },
+ {
+  "meses_cotizados": 254,
+  "%_subida": 0.19,
+  "%_acumulado": 64.05999999999983
+ },
+ {
+  "meses_cotizados": 255,
+  "%_subida": 0.19,
+  "%_acumulado": 64.24999999999983
+ },
+ {
+  "meses_cotizados": 256,
+  "%_subida": 0.19,
+  "%_acumulado": 64.43999999999983
+ },
+ {
+  "meses_cotizados": 257,
+  "%_subida": 0.19,
+  "%_acumulado": 64.62999999999982
+ },
+ {
+  "meses_cotizados": 258,
+  "%_subida": 0.19,
+  "%_acumulado": 64.81999999999982
+ },
+ {
+  "meses_cotizados": 259,
+  "%_subida": 0.19,
+  "%_acumulado": 65.00999999999982
+ },
+ {
+  "meses_cotizados": 260,
+  "%_subida": 0.19,
+  "%_acumulado": 65.19999999999982
+ },
+ {
+  "meses_cotizados": 261,
+  "%_subida": 0.19,
+  "%_acumulado": 65.38999999999982
+ },
+ {
+  "meses_cotizados": 262,
+  "%_subida": 0.19,
+  "%_acumulado": 65.57999999999981
+ },
+ {
+  "meses_cotizados": 263,
+  "%_subida": 0.19,
+  "%_acumulado": 65.76999999999981
+ },
+ {
+  "meses_cotizados": 264,
+  "%_subida": 0.19,
+  "%_acumulado": 65.95999999999981
+ },
+ {
+  "meses_cotizados": 265,
+  "%_subida": 0.19,
+  "%_acumulado": 66.1499999999998
+ },
+ {
+  "meses_cotizados": 266,
+  "%_subida": 0.19,
+  "%_acumulado": 66.3399999999998
+ },
+ {
+  "meses_cotizados": 267,
+  "%_subida": 0.19,
+  "%_acumulado": 66.5299999999998
+ },
+ {
+  "meses_cotizados": 268,
+  "%_subida": 0.19,
+  "%_acumulado": 66.7199999999998
+ },
+ {
+  "meses_cotizados": 269,
+  "%_subida": 0.19,
+  "%_acumulado": 66.9099999999998
+ },
+ {
+  "meses_cotizados": 270,
+  "%_subida": 0.19,
+  "%_acumulado": 67.0999999999998
+ },
+ {
+  "meses_cotizados": 271,
+  "%_subida": 0.19,
+  "%_acumulado": 67.2899999999998
+ },
+ {
+  "meses_cotizados": 272,
+  "%_subida": 0.19,
+  "%_acumulado": 67.47999999999979
+ },
+ {
+  "meses_cotizados": 273,
+  "%_subida": 0.19,
+  "%_acumulado": 67.66999999999979
+ },
+ {
+  "meses_cotizados": 274,
+  "%_subida": 0.19,
+  "%_acumulado": 67.85999999999979
+ },
+ {
+  "meses_cotizados": 275,
+  "%_subida": 0.19,
+  "%_acumulado": 68.04999999999978
+ },
+ {
+  "meses_cotizados": 276,
+  "%_subida": 0.19,
+  "%_acumulado": 68.23999999999978
+ },
+ {
+  "meses_cotizados": 277,
+  "%_subida": 0.19,
+  "%_acumulado": 68.42999999999978
+ },
+ {
+  "meses_cotizados": 278,
+  "%_subida": 0.19,
+  "%_acumulado": 68.61999999999978
+ },
+ {
+  "meses_cotizados": 279,
+  "%_subida": 0.19,
+  "%_acumulado": 68.80999999999977
+ },
+ {
+  "meses_cotizados": 280,
+  "%_subida": 0.19,
+  "%_acumulado": 68.99999999999977
+ },
+ {
+  "meses_cotizados": 281,
+  "%_subida": 0.19,
+  "%_acumulado": 69.18999999999977
+ },
+ {
+  "meses_cotizados": 282,
+  "%_subida": 0.19,
+  "%_acumulado": 69.37999999999977
+ },
+ {
+  "meses_cotizados": 283,
+  "%_subida": 0.19,
+  "%_acumulado": 69.56999999999977
+ },
+ {
+  "meses_cotizados": 284,
+  "%_subida": 0.19,
+  "%_acumulado": 69.75999999999976
+ },
+ {
+  "meses_cotizados": 285,
+  "%_subida": 0.19,
+  "%_acumulado": 69.94999999999976
+ },
+ {
+  "meses_cotizados": 286,
+  "%_subida": 0.19,
+  "%_acumulado": 70.13999999999976
+ },
+ {
+  "meses_cotizados": 287,
+  "%_subida": 0.19,
+  "%_acumulado": 70.32999999999976
+ },
+ {
+  "meses_cotizados": 288,
+  "%_subida": 0.19,
+  "%_acumulado": 70.51999999999975
+ },
+ {
+  "meses_cotizados": 289,
+  "%_subida": 0.19,
+  "%_acumulado": 70.70999999999975
+ },
+ {
+  "meses_cotizados": 290,
+  "%_subida": 0.19,
+  "%_acumulado": 70.89999999999975
+ },
+ {
+  "meses_cotizados": 291,
+  "%_subida": 0.19,
+  "%_acumulado": 71.08999999999975
+ },
+ {
+  "meses_cotizados": 292,
+  "%_subida": 0.19,
+  "%_acumulado": 71.27999999999975
+ },
+ {
+  "meses_cotizados": 293,
+  "%_subida": 0.19,
+  "%_acumulado": 71.46999999999974
+ },
+ {
+  "meses_cotizados": 294,
+  "%_subida": 0.19,
+  "%_acumulado": 71.65999999999974
+ },
+ {
+  "meses_cotizados": 295,
+  "%_subida": 0.19,
+  "%_acumulado": 71.84999999999974
+ },
+ {
+  "meses_cotizados": 296,
+  "%_subida": 0.19,
+  "%_acumulado": 72.03999999999974
+ },
+ {
+  "meses_cotizados": 297,
+  "%_subida": 0.19,
+  "%_acumulado": 72.22999999999973
+ },
+ {
+  "meses_cotizados": 298,
+  "%_subida": 0.19,
+  "%_acumulado": 72.41999999999973
+ },
+ {
+  "meses_cotizados": 299,
+  "%_subida": 0.19,
+  "%_acumulado": 72.60999999999973
+ },
+ {
+  "meses_cotizados": 300,
+  "%_subida": 0.19,
+  "%_acumulado": 72.79999999999973
+ },
+ {
+  "meses_cotizados": 301,
+  "%_subida": 0.19,
+  "%_acumulado": 72.98999999999972
+ },
+ {
+  "meses_cotizados": 302,
+  "%_subida": 0.19,
+  "%_acumulado": 73.17999999999972
+ },
+ {
+  "meses_cotizados": 303,
+  "%_subida": 0.19,
+  "%_acumulado": 73.36999999999972
+ },
+ {
+  "meses_cotizados": 304,
+  "%_subida": 0.19,
+  "%_acumulado": 73.55999999999972
+ },
+ {
+  "meses_cotizados": 305,
+  "%_subida": 0.19,
+  "%_acumulado": 73.74999999999972
+ },
+ {
+  "meses_cotizados": 306,
+  "%_subida": 0.19,
+  "%_acumulado": 73.93999999999971
+ },
+ {
+  "meses_cotizados": 307,
+  "%_subida": 0.19,
+  "%_acumulado": 74.12999999999971
+ },
+ {
+  "meses_cotizados": 308,
+  "%_subida": 0.19,
+  "%_acumulado": 74.31999999999971
+ },
+ {
+  "meses_cotizados": 309,
+  "%_subida": 0.19,
+  "%_acumulado": 74.5099999999997
+ },
+ {
+  "meses_cotizados": 310,
+  "%_subida": 0.19,
+  "%_acumulado": 74.6999999999997
+ },
+ {
+  "meses_cotizados": 311,
+  "%_subida": 0.19,
+  "%_acumulado": 74.8899999999997
+ },
+ {
+  "meses_cotizados": 312,
+  "%_subida": 0.19,
+  "%_acumulado": 75.0799999999997
+ },
+ {
+  "meses_cotizados": 313,
+  "%_subida": 0.19,
+  "%_acumulado": 75.2699999999997
+ },
+ {
+  "meses_cotizados": 314,
+  "%_subida": 0.19,
+  "%_acumulado": 75.4599999999997
+ },
+ {
+  "meses_cotizados": 315,
+  "%_subida": 0.19,
+  "%_acumulado": 75.6499999999997
+ },
+ {
+  "meses_cotizados": 316,
+  "%_subida": 0.19,
+  "%_acumulado": 75.83999999999969
+ },
+ {
+  "meses_cotizados": 317,
+  "%_subida": 0.19,
+  "%_acumulado": 76.02999999999969
+ },
+ {
+  "meses_cotizados": 318,
+  "%_subida": 0.19,
+  "%_acumulado": 76.21999999999969
+ },
+ {
+  "meses_cotizados": 319,
+  "%_subida": 0.19,
+  "%_acumulado": 76.40999999999968
+ },
+ {
+  "meses_cotizados": 320,
+  "%_subida": 0.19,
+  "%_acumulado": 76.59999999999968
+ },
+ {
+  "meses_cotizados": 321,
+  "%_subida": 0.19,
+  "%_acumulado": 76.78999999999968
+ },
+ {
+  "meses_cotizados": 322,
+  "%_subida": 0.19,
+  "%_acumulado": 76.97999999999968
+ },
+ {
+  "meses_cotizados": 323,
+  "%_subida": 0.19,
+  "%_acumulado": 77.16999999999967
+ },
+ {
+  "meses_cotizados": 324,
+  "%_subida": 0.19,
+  "%_acumulado": 77.35999999999967
+ },
+ {
+  "meses_cotizados": 325,
+  "%_subida": 0.19,
+  "%_acumulado": 77.54999999999967
+ },
+ {
+  "meses_cotizados": 326,
+  "%_subida": 0.19,
+  "%_acumulado": 77.73999999999967
+ },
+ {
+  "meses_cotizados": 327,
+  "%_subida": 0.19,
+  "%_acumulado": 77.92999999999967
+ },
+ {
+  "meses_cotizados": 328,
+  "%_subida": 0.19,
+  "%_acumulado": 78.11999999999966
+ },
+ {
+  "meses_cotizados": 329,
+  "%_subida": 0.19,
+  "%_acumulado": 78.30999999999966
+ },
+ {
+  "meses_cotizados": 330,
+  "%_subida": 0.19,
+  "%_acumulado": 78.49999999999966
+ },
+ {
+  "meses_cotizados": 331,
+  "%_subida": 0.19,
+  "%_acumulado": 78.68999999999966
+ },
+ {
+  "meses_cotizados": 332,
+  "%_subida": 0.19,
+  "%_acumulado": 78.87999999999965
+ },
+ {
+  "meses_cotizados": 333,
+  "%_subida": 0.19,
+  "%_acumulado": 79.06999999999965
+ },
+ {
+  "meses_cotizados": 334,
+  "%_subida": 0.19,
+  "%_acumulado": 79.25999999999965
+ },
+ {
+  "meses_cotizados": 335,
+  "%_subida": 0.19,
+  "%_acumulado": 79.44999999999965
+ },
+ {
+  "meses_cotizados": 336,
+  "%_subida": 0.19,
+  "%_acumulado": 79.63999999999965
+ },
+ {
+  "meses_cotizados": 337,
+  "%_subida": 0.19,
+  "%_acumulado": 79.82999999999964
+ },
+ {
+  "meses_cotizados": 338,
+  "%_subida": 0.19,
+  "%_acumulado": 80.01999999999964
+ },
+ {
+  "meses_cotizados": 339,
+  "%_subida": 0.19,
+  "%_acumulado": 80.20999999999964
+ },
+ {
+  "meses_cotizados": 340,
+  "%_subida": 0.19,
+  "%_acumulado": 80.39999999999964
+ },
+ {
+  "meses_cotizados": 341,
+  "%_subida": 0.19,
+  "%_acumulado": 80.58999999999963
+ },
+ {
+  "meses_cotizados": 342,
+  "%_subida": 0.19,
+  "%_acumulado": 80.77999999999963
+ },
+ {
+  "meses_cotizados": 343,
+  "%_subida": 0.19,
+  "%_acumulado": 80.96999999999963
+ },
+ {
+  "meses_cotizados": 344,
+  "%_subida": 0.19,
+  "%_acumulado": 81.15999999999963
+ },
+ {
+  "meses_cotizados": 345,
+  "%_subida": 0.19,
+  "%_acumulado": 81.34999999999962
+ },
+ {
+  "meses_cotizados": 346,
+  "%_subida": 0.19,
+  "%_acumulado": 81.53999999999962
+ },
+ {
+  "meses_cotizados": 347,
+  "%_subida": 0.19,
+  "%_acumulado": 81.72999999999962
+ },
+ {
+  "meses_cotizados": 348,
+  "%_subida": 0.19,
+  "%_acumulado": 81.91999999999962
+ },
+ {
+  "meses_cotizados": 349,
+  "%_subida": 0.19,
+  "%_acumulado": 82.10999999999962
+ },
+ {
+  "meses_cotizados": 350,
+  "%_subida": 0.19,
+  "%_acumulado": 82.29999999999961
+ },
+ {
+  "meses_cotizados": 351,
+  "%_subida": 0.19,
+  "%_acumulado": 82.48999999999961
+ },
+ {
+  "meses_cotizados": 352,
+  "%_subida": 0.19,
+  "%_acumulado": 82.67999999999961
+ },
+ {
+  "meses_cotizados": 353,
+  "%_subida": 0.19,
+  "%_acumulado": 82.8699999999996
+ },
+ {
+  "meses_cotizados": 354,
+  "%_subida": 0.19,
+  "%_acumulado": 83.0599999999996
+ },
+ {
+  "meses_cotizados": 355,
+  "%_subida": 0.19,
+  "%_acumulado": 83.2499999999996
+ },
+ {
+  "meses_cotizados": 356,
+  "%_subida": 0.19,
+  "%_acumulado": 83.4399999999996
+ },
+ {
+  "meses_cotizados": 357,
+  "%_subida": 0.19,
+  "%_acumulado": 83.6299999999996
+ },
+ {
+  "meses_cotizados": 358,
+  "%_subida": 0.19,
+  "%_acumulado": 83.8199999999996
+ },
+ {
+  "meses_cotizados": 359,
+  "%_subida": 0.19,
+  "%_acumulado": 84.0099999999996
+ },
+ {
+  "meses_cotizados": 360,
+  "%_subida": 0.19,
+  "%_acumulado": 84.19999999999959
+ },
+ {
+  "meses_cotizados": 361,
+  "%_subida": 0.19,
+  "%_acumulado": 84.38999999999959
+ },
+ {
+  "meses_cotizados": 362,
+  "%_subida": 0.19,
+  "%_acumulado": 84.57999999999959
+ },
+ {
+  "meses_cotizados": 363,
+  "%_subida": 0.19,
+  "%_acumulado": 84.76999999999958
+ },
+ {
+  "meses_cotizados": 364,
+  "%_subida": 0.19,
+  "%_acumulado": 84.95999999999958
+ },
+ {
+  "meses_cotizados": 365,
+  "%_subida": 0.19,
+  "%_acumulado": 85.14999999999958
+ },
+ {
+  "meses_cotizados": 366,
+  "%_subida": 0.19,
+  "%_acumulado": 85.33999999999958
+ },
+ {
+  "meses_cotizados": 367,
+  "%_subida": 0.19,
+  "%_acumulado": 85.52999999999957
+ },
+ {
+  "meses_cotizados": 368,
+  "%_subida": 0.19,
+  "%_acumulado": 85.71999999999957
+ },
+ {
+  "meses_cotizados": 369,
+  "%_subida": 0.19,
+  "%_acumulado": 85.90999999999957
+ },
+ {
+  "meses_cotizados": 370,
+  "%_subida": 0.19,
+  "%_acumulado": 86.09999999999957
+ },
+ {
+  "meses_cotizados": 371,
+  "%_subida": 0.19,
+  "%_acumulado": 86.28999999999957
+ },
+ {
+  "meses_cotizados": 372,
+  "%_subida": 0.19,
+  "%_acumulado": 86.47999999999956
+ },
+ {
+  "meses_cotizados": 373,
+  "%_subida": 0.19,
+  "%_acumulado": 86.66999999999956
+ },
+ {
+  "meses_cotizados": 374,
+  "%_subida": 0.19,
+  "%_acumulado": 86.85999999999956
+ },
+ {
+  "meses_cotizados": 375,
+  "%_subida": 0.19,
+  "%_acumulado": 87.04999999999956
+ },
+ {
+  "meses_cotizados": 376,
+  "%_subida": 0.19,
+  "%_acumulado": 87.23999999999955
+ },
+ {
+  "meses_cotizados": 377,
+  "%_subida": 0.19,
+  "%_acumulado": 87.42999999999955
+ },
+ {
+  "meses_cotizados": 378,
+  "%_subida": 0.19,
+  "%_acumulado": 87.61999999999955
+ },
+ {
+  "meses_cotizados": 379,
+  "%_subida": 0.19,
+  "%_acumulado": 87.80999999999955
+ },
+ {
+  "meses_cotizados": 380,
+  "%_subida": 0.19,
+  "%_acumulado": 87.99999999999955
+ },
+ {
+  "meses_cotizados": 381,
+  "%_subida": 0.19,
+  "%_acumulado": 88.18999999999954
+ },
+ {
+  "meses_cotizados": 382,
+  "%_subida": 0.19,
+  "%_acumulado": 88.37999999999954
+ },
+ {
+  "meses_cotizados": 383,
+  "%_subida": 0.19,
+  "%_acumulado": 88.56999999999954
+ },
+ {
+  "meses_cotizados": 384,
+  "%_subida": 0.19,
+  "%_acumulado": 88.75999999999954
+ },
+ {
+  "meses_cotizados": 385,
+  "%_subida": 0.19,
+  "%_acumulado": 88.94999999999953
+ },
+ {
+  "meses_cotizados": 386,
+  "%_subida": 0.19,
+  "%_acumulado": 89.13999999999953
+ },
+ {
+  "meses_cotizados": 387,
+  "%_subida": 0.19,
+  "%_acumulado": 89.32999999999953
+ },
+ {
+  "meses_cotizados": 388,
+  "%_subida": 0.19,
+  "%_acumulado": 89.51999999999953
+ },
+ {
+  "meses_cotizados": 389,
+  "%_subida": 0.19,
+  "%_acumulado": 89.70999999999952
+ },
+ {
+  "meses_cotizados": 390,
+  "%_subida": 0.19,
+  "%_acumulado": 89.89999999999952
+ },
+ {
+  "meses_cotizados": 391,
+  "%_subida": 0.19,
+  "%_acumulado": 90.08999999999952
+ },
+ {
+  "meses_cotizados": 392,
+  "%_subida": 0.19,
+  "%_acumulado": 90.27999999999952
+ },
+ {
+  "meses_cotizados": 393,
+  "%_subida": 0.19,
+  "%_acumulado": 90.46999999999952
+ },
+ {
+  "meses_cotizados": 394,
+  "%_subida": 0.19,
+  "%_acumulado": 90.65999999999951
+ },
+ {
+  "meses_cotizados": 395,
+  "%_subida": 0.19,
+  "%_acumulado": 90.84999999999951
+ },
+ {
+  "meses_cotizados": 396,
+  "%_subida": 0.19,
+  "%_acumulado": 91.03999999999951
+ },
+ {
+  "meses_cotizados": 397,
+  "%_subida": 0.19,
+  "%_acumulado": 91.2299999999995
+ },
+ {
+  "meses_cotizados": 398,
+  "%_subida": 0.19,
+  "%_acumulado": 91.4199999999995
+ },
+ {
+  "meses_cotizados": 399,
+  "%_subida": 0.19,
+  "%_acumulado": 91.6099999999995
+ },
+ {
+  "meses_cotizados": 400,
+  "%_subida": 0.19,
+  "%_acumulado": 91.7999999999995
+ },
+ {
+  "meses_cotizados": 401,
+  "%_subida": 0.19,
+  "%_acumulado": 91.9899999999995
+ },
+ {
+  "meses_cotizados": 402,
+  "%_subida": 0.19,
+  "%_acumulado": 92.1799999999995
+ },
+ {
+  "meses_cotizados": 403,
+  "%_subida": 0.19,
+  "%_acumulado": 92.3699999999995
+ },
+ {
+  "meses_cotizados": 404,
+  "%_subida": 0.19,
+  "%_acumulado": 92.55999999999949
+ },
+ {
+  "meses_cotizados": 405,
+  "%_subida": 0.19,
+  "%_acumulado": 92.74999999999949
+ },
+ {
+  "meses_cotizados": 406,
+  "%_subida": 0.19,
+  "%_acumulado": 92.93999999999949
+ },
+ {
+  "meses_cotizados": 407,
+  "%_subida": 0.19,
+  "%_acumulado": 93.12999999999948
+ },
+ {
+  "meses_cotizados": 408,
+  "%_subida": 0.19,
+  "%_acumulado": 93.31999999999948
+ },
+ {
+  "meses_cotizados": 409,
+  "%_subida": 0.19,
+  "%_acumulado": 93.50999999999948
+ },
+ {
+  "meses_cotizados": 410,
+  "%_subida": 0.19,
+  "%_acumulado": 93.69999999999948
+ },
+ {
+  "meses_cotizados": 411,
+  "%_subida": 0.19,
+  "%_acumulado": 93.88999999999947
+ },
+ {
+  "meses_cotizados": 412,
+  "%_subida": 0.19,
+  "%_acumulado": 94.07999999999947
+ },
+ {
+  "meses_cotizados": 413,
+  "%_subida": 0.19,
+  "%_acumulado": 94.26999999999947
+ },
+ {
+  "meses_cotizados": 414,
+  "%_subida": 0.19,
+  "%_acumulado": 94.45999999999947
+ },
+ {
+  "meses_cotizados": 415,
+  "%_subida": 0.19,
+  "%_acumulado": 94.64999999999947
+ },
+ {
+  "meses_cotizados": 416,
+  "%_subida": 0.19,
+  "%_acumulado": 94.83999999999946
+ },
+ {
+  "meses_cotizados": 417,
+  "%_subida": 0.19,
+  "%_acumulado": 95.02999999999946
+ },
+ {
+  "meses_cotizados": 418,
+  "%_subida": 0.19,
+  "%_acumulado": 95.21999999999946
+ },
+ {
+  "meses_cotizados": 419,
+  "%_subida": 0.19,
+  "%_acumulado": 95.40999999999946
+ },
+ {
+  "meses_cotizados": 420,
+  "%_subida": 0.19,
+  "%_acumulado": 95.59999999999945
+ },
+ {
+  "meses_cotizados": 421,
+  "%_subida": 0.19,
+  "%_acumulado": 95.78999999999945
+ },
+ {
+  "meses_cotizados": 422,
+  "%_subida": 0.19,
+  "%_acumulado": 95.97999999999945
+ },
+ {
+  "meses_cotizados": 423,
+  "%_subida": 0.19,
+  "%_acumulado": 96.16999999999945
+ },
+ {
+  "meses_cotizados": 424,
+  "%_subida": 0.19,
+  "%_acumulado": 96.35999999999945
+ },
+ {
+  "meses_cotizados": 425,
+  "%_subida": 0.19,
+  "%_acumulado": 96.54999999999944
+ },
+ {
+  "meses_cotizados": 426,
+  "%_subida": 0.19,
+  "%_acumulado": 96.73999999999944
+ },
+ {
+  "meses_cotizados": 427,
+  "%_subida": 0.19,
+  "%_acumulado": 96.92999999999944
+ },
+ {
+  "meses_cotizados": 428,
+  "%_subida": 0.19,
+  "%_acumulado": 97.11999999999944
+ },
+ {
+  "meses_cotizados": 429,
+  "%_subida": 0.18,
+  "%_acumulado": 97.29999999999944
+ },
+ {
+  "meses_cotizados": 430,
+  "%_subida": 0.18,
+  "%_acumulado": 97.47999999999945
+ },
+ {
+  "meses_cotizados": 431,
+  "%_subida": 0.18,
+  "%_acumulado": 97.65999999999946
+ },
+ {
+  "meses_cotizados": 432,
+  "%_subida": 0.18,
+  "%_acumulado": 97.83999999999946
+ },
+ {
+  "meses_cotizados": 433,
+  "%_subida": 0.18,
+  "%_acumulado": 98.01999999999947
+ },
+ {
+  "meses_cotizados": 434,
+  "%_subida": 0.18,
+  "%_acumulado": 98.19999999999948
+ },
+ {
+  "meses_cotizados": 435,
+  "%_subida": 0.18,
+  "%_acumulado": 98.37999999999948
+ },
+ {
+  "meses_cotizados": 436,
+  "%_subida": 0.18,
+  "%_acumulado": 98.55999999999949
+ },
+ {
+  "meses_cotizados": 437,
+  "%_subida": 0.18,
+  "%_acumulado": 98.7399999999995
+ },
+ {
+  "meses_cotizados": 438,
+  "%_subida": 0.18,
+  "%_acumulado": 98.9199999999995
+ },
+ {
+  "meses_cotizados": 439,
+  "%_subida": 0.18,
+  "%_acumulado": 99.09999999999951
+ },
+ {
+  "meses_cotizados": 440,
+  "%_subida": 0.18,
+  "%_acumulado": 99.27999999999952
+ },
+ {
+  "meses_cotizados": 441,
+  "%_subida": 0.18,
+  "%_acumulado": 99.45999999999952
+ },
+ {
+  "meses_cotizados": 442,
+  "%_subida": 0.18,
+  "%_acumulado": 99.63999999999953
+ },
+ {
+  "meses_cotizados": 443,
+  "%_subida": 0.18,
+  "%_acumulado": 99.81999999999954
+ },
+ {
+  "meses_cotizados": 444,
+  "%_subida": 0.18,
+  "%_acumulado": 99.99999999999955
+ }
+]
